@@ -1,2 +1,2 @@
 # cv1
-this is my proj 
+A basic CV that i tried creating. 
